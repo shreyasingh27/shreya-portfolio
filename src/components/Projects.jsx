@@ -1,5 +1,5 @@
-import haldiramHomepageDesktop from "../assets/images/Projects/Haldirams-Homepage-Desktop.png";
-import haldiramHomepageMobile from "../assets/images/Projects/Haldirams-Homepage-Mobile.png";
+import haldiramHomepageDesktop from "../assets/images/Projects/Haldirams-HomePage-Desktop.png";
+import haldiramHomepageMobile from "../assets/images/Projects/Haldirams-HomePage-Mobile.png";
 import tiffanyHomepageDesktop from "../assets/images/Projects/Tiffany-Homepage-Desktop.png";
 import tiffanyHomepageMobile from "../assets/images/Projects/Tiffany-Homepage-Mobile.png";
 import jackNJonesDesktop from "../assets/images/Projects/JacknJones-Desktop.png";

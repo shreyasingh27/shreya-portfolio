@@ -18,7 +18,3 @@ Welcome to my personal portfolio website, built to showcase my work, experience,
 - 🛠️ Skills, Tools & Technologies
 - 📫 Contact form with real-time email delivery
 - 🎨 Smooth animations and transitions
-
-## 📷 Preview
-
-![Portfolio Screenshot](./public/screenshot.png)

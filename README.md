@@ -21,4 +21,4 @@ Welcome to my personal portfolio website, built to showcase my work, experience,
 
 ## 📷 Preview
 
-![Portfolio Screenshot](./Shreya-Portfolio-Screenshot.png)
+![Portfolio Screenshot](./public/screenshot.png)

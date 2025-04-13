@@ -11,7 +11,7 @@ import ATHomepageMobile from "../assets/images/Projects/AmericanTourister-Homepa
 
 import CategoriesList from "../assets/images/Projects/CategoriesList.png";
 import CategoriesDetail from "../assets/images/Projects/CategoriesDetail.png";
-import productsDetail from "../assets/images/Projects/productsDetail.png";
+import productsDetail from "../assets/images/Projects/ProductsDetail.png";
 
 import netflixHome from "../assets/images/Projects/Netflix-GPT-HomePage.png";
 import netflixSignIn from "../assets/images/Projects/Netflix-GPT-SignIn.png";

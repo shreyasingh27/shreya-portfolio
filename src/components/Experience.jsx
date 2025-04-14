@@ -17,6 +17,7 @@ const experiences = [
       "Developed reusable checkout components in React to streamline development and maintain consistency (Kartwave).",
 
       "Delivered responsive, pixel-perfect UI/UX with accessibility best practices and cross-browser compatibility.",
+      "Tech Stack: React, Redux, REST API, JavaScript, HTML, CSS, Tailwind, Bootstrap, jQuery, WordPress, Bootstrap, Material UI, OpenCart, Figma, Webflow, Git, Jira.",
     ],
   },
   {
@@ -33,8 +34,7 @@ const experiences = [
       " Optimized pages for page speed using Google Page Speed (API) for Apache to obtain higher rankings on Search Engines (SEM).",
       " Did on site SEO implementations to increase traffic to client websites.",
       " Designed creatives for emailer and social media in photoshop. ",
-      " Workflow tools included: HTML, CSS, Bootstrap, jQuery, Git, Zeplin and Photoshop",
-      " Bug Tracking Software: Bugzilla",
+      " Tech Stack: HTML, CSS, Bootstrap, jQuery, Git, Zeplin, Photoshop, Bugzilla",
     ],
   },
   {
@@ -47,7 +47,7 @@ const experiences = [
       "Responsible for working on a range of projects, designing appealing websites and interacting on a daily basis with Front-End Development and marketers. ",
       "Responsive Web Design and HTML Development.",
       "Worked on WordPress & OpenCart to develop corporate & e-commerce site. ",
-      "Utilize expertise in front-end development technologies such as HTML, Bootstrap, CSS, JavaScript to enhance interactivity. ",
+      "Tech Stack: HTML, Bootstrap, CSS, JavaScript, Jquery, Wordpress, OpenCart. ",
     ],
   },
   {
@@ -58,11 +58,9 @@ const experiences = [
       "Responsible for working on a range of projects, Designed Rich Media Ad Units using JavaScript, HTML5, CSS, Dreamweaver, Edge Animate. ",
     achievements: [
       "In Vdopia, I worked for various clients like MacDonald’s, P&G, Panera, Hyundai, Toyota etc. ",
-      "Developed Website under the direction of the Art Director. ",
       "Designed several Mobile Ad units like Banner, Wiper units, Hotspot, Interstitial in Photoshop. ",
       "For mobile video Ad, worked on video editing software like Adobe Premiere, Encoder, OJ soft. ",
-      "Coordinated with Development and Creative teams. ",
-      "Worked and had knowledge in advertising Domain",
+      "Tech Stack & tools: JavaScript, HTML5, CSS, Edge Animate, Adobe Premiere, Encoder, OJ soft ",
     ],
   },
 ];
@@ -77,7 +75,7 @@ export default function Experience() {
             {experiences.map((exp, index) => (
               <div className="relative pl-8 pb-12 last:pb-0" key={index}>
                 <div className="absolute left-0 top-0 h-full w-0.5 bg-slate-200">
-                  <div className="absolute -left-1.5 top-0 h-6 w-6 rounded-full bg-dark_primary flex justify-center items-center">
+                  <div className="absolute -left-2.5 top-0 h-6 w-6 rounded-full bg-dark_primary flex justify-center items-center">
                     {/* <Briefcase
                     size={12}
                     className="text-white absolute top-1 left-1"

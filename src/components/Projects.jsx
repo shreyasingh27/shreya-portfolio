@@ -23,6 +23,9 @@ import FoodAppCart from "../assets/images/Projects/FoodApp_cart.png";
 
 import YoutubeHome from "../assets/images/Projects/youtube-home.png";
 import YoutubeDetail from "../assets/images/Projects/youtube-detail.png";
+import { BiRightArrow } from "react-icons/bi";
+import { BsChevronBarRight } from "react-icons/bs";
+import { MdChevronRight } from "react-icons/md";
 const projects = [
   {
     title: "Tiffany",
@@ -189,11 +192,14 @@ export default function Projects() {
                 <div className="grid md:grid-cols-2 gap-8 p-8">
                   <div className="space-y-6">
                     <div>
-                      <h3 className="text-2xl font-bold mb-3 cursor-pointer">
-                        <a href={project.link} target="_blank">
-                          {project.title}
-                        </a>
-                      </h3>
+                      <a href={project.link} target="_blank">
+                        <h3 className="text-2xl font-bold mb-3 cursor-pointer underline flex gap-2">
+                          {project.title}{" "}
+                          <small className=" cursor-pointer flex  justify-start items-center">
+                            <MdChevronRight size={24} />
+                          </small>
+                        </h3>
+                      </a>
                       <p className="text-gray-600 mb-4">
                         {project.description}
                       </p>
